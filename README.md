@@ -372,11 +372,27 @@ to view the past changes.
 - [ ] Non linear stop price and chase function - [#246](https://github.com/chrisleekr/binance-trading-bot/issues/246)
 - [ ] Support STOP-LOSS configuration per grid trade for selling - [#261](https://github.com/chrisleekr/binance-trading-bot/issues/261)
 
-## Donations
+## Binance Account - Get 10% discount on fees!
 
-If you find this project helpful, feel free to make a small
-[donation](https://github.com/chrisleekr/binance-trading-bot/blob/master/DONATIONS.md)
-to the developer.
+Don't you have a **Binance** account yet?  
+Register using the **referal link** below and get a **10% discount on fees** for **all** your trades!
+
+[**https://accounts.binance.com/en/register?ref=IMNOXVUY**](https://accounts.binance.com/en/register?ref=IMNOXVUY)  
+
+
+## Enjoy - Donate - Buy me a beer!  =]
+
+Thank you for using Binance to Google Sheets add-on!  
+I really hope you enjoyed and loved it as much as I love to use it everyday.
+
+If your love is strong enough, feel free to share it with me!  =D  
+I will much appreciate any contribution and support to keep working on it.  
+I have several ideas for new features, so much more could come!
+
+You can send any token through the **Binance Smart Chain** (BSC/BEP20) to the address:  
+`0x51CeC0bB36BacC9765e1A5fa67b84810DeF607Ae`
+---
+
 
 ## Acknowledgments
 
