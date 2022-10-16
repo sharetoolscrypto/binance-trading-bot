@@ -382,7 +382,6 @@ Register using the **referal link** below and get a **10% discount on fees** for
 
 ## Enjoy - Donate - Buy me a beer!  =]
 
-Thank you for using Binance to Google Sheets add-on!  
 I really hope you enjoyed and loved it as much as I love to use it everyday.
 
 If your love is strong enough, feel free to share it with me!  =D  
